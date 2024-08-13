@@ -2,11 +2,11 @@ Changelog
 =========
 
 
-0.1.1 (unreleased)
+0.1.1 (2024-08-13)
 ------------------
 
-- Nothing changed yet.
-
+- Corrected sources.
+  [sgeulette]
 
 0.1.0 (2024-08-13)
 ------------------
