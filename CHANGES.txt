@@ -2,11 +2,11 @@ Changelog
 =========
 
 
-0.1.2 (unreleased)
+0.2.0 (2024-08-14)
 ------------------
 
-- Nothing changed yet.
-
+- Pinned imio.scan_logger to 0.2.0.
+  [sgeulette]
 
 0.1.1 (2024-08-13)
 ------------------
