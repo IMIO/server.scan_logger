@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.2.2 (unreleased)
+0.2.2 (2024-08-26)
 ------------------
 
 - Pinned imio.scan_logger to 0.3.0.
