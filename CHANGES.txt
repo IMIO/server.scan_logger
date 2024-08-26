@@ -5,8 +5,8 @@ Changelog
 0.2.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Pinned imio.scan_logger to 0.3.0.
+  [sgeulette]
 
 0.2.1 (2024-08-14)
 ------------------
